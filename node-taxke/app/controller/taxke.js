@@ -987,6 +987,104 @@ class TaxkeController extends Controller {
         question_state: 3,
         question_title:
           '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
+      },{
+        answer_content:
+          '你好，留抵没有期限规定！当期没有抵扣完，可以在下一期继续抵扣。如果企业直到注销都没有抵扣完，可以将未抵扣完的进项税额转入存货成本，在清算所得税时扣除。\n   进项还能抵扣的！',
+        answer_date: 1529894104000,
+        createDate: 1529893770000,
+        create_user: 'b65c34eb9be6485abbdc74885b2df1a1',
+        del_flag: 'N',
+        holder_expert: 'c9e3c7b2b0324447b2bec5ec515043e2',
+        holder_img: '/media/d1aea6e1a3d743d8ad0631209f173e4f.png',
+        holder_nickName: '财税工作者 | 税务军团',
+        id: '7ad7ca1a684d45a3946d3e6863712d5f',
+        question_state: 3,
+        question_title:
+          '请问，进项税额留抵的时间是多久？ 如：房产公司原自持的商业，取得有进项税，在3年后卖出，进项还能抵扣吗？',
       },
       {
         answer_content:
@@ -1061,42 +1159,134 @@ class TaxkeController extends Controller {
   }
   async indexProfessorList() {
     this.ctx.body = {
-      result: [
-        {
-          expert_nickName: '财税公益人',
-          header_img: '/media/d65d547ba9504d5f9d54c9fdab3342d1.png',
-          id: '43883b49d0f34c9bb4bf3ee42504795f',
-          last_login_time: 1524205891000,
-          nickName: '小桶桶',
-          openId: 'oT7f_wsLt34cRca9svqD6Tfh_B4g',
-          question_fee: 100,
-        },
-        {
-          expert_info:
-            '注会，税务师，某财大客座教授，某省税校讲师！擅长以商业实质和形式，解决涉税难题！',
-          expert_nickName: '专业讲师',
-          header_img: '/media/14257b7b2b2f4c3da687a3397fd259e5.png',
-          id: 'bcdce421d67447709f8ae996b7915a04',
-          last_login_time: 1529916137000,
-          nickName: '罗伟',
-          openId: 'oT7f_wqoglBpsGBvDwKzg7Z6zgEs',
-          question_fee: 5800,
-        },
-        {
-          expert_info:
-            '学习税收专业7年，从业5年。善于从企业角度出发，融合企业实际情况解决税务问题。',
-          expert_nickName: '知名专家',
-          header_img: '/media/cCHhWyBBSpEqdbm9dfsG3qs9Hj6z7Aij.jpg',
-          id: '3cb765eac12a4ac59c4f1850c386243b',
-          last_login_time: 1523862937000,
-          nickName: '华鑫',
-          openId: 'oT7f_wjXKbTpGWMfNU9lw5DL-2FA',
-          question_fee: 2980,
-        },
-      ],
-      status_code: 0,
-      status_message: 'ok',
-    };
+      "page":{
+        "autoCount":false,
+        "first":1,
+        "hasNext":false,
+        "hasPre":false,
+        "nextPage":1,
+        "pageNo":1,
+        "pageSize":10,
+        "prePage":1,
+        "qtime":0,
+        "result":[
+          {
+            "answer_count":1255,
+            "expert_info":"从税20年，法律职业资格，实战经验丰富，出版财税书籍3本，发表文章200余篇。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/dKlLhATYnE8n5oGnNn70kv66T6I3cv6X.jpg",
+            "id":"0a34c902fdac4a9992291aab0f89e0ab",
+            "last_login_time":1531108442000,
+            "nickName":"牛戈",
+            "openId":"oT7f_wvRMPIEcp7C3FnXk-QlZCSs",
+            "question_fee":2800
+          },
+          {
+            "answer_count":816,
+            "expert_info":"注册会计师、注册税务师，从业二十年，与您交流财税问题。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/1ZNwArBAFUFX0OsoUpYYbTb0Muimix5k.jpg",
+            "id":"7bd7baabd1d541278ba5986bb3eb3b6b",
+            "last_login_time":1531102870000,
+            "nickName":"小强老师",
+            "openId":"oT7f_wiL0M-031edw-snvh3--2mA",
+            "question_fee":3000
+          },
+          {
+            "answer_count":712,
+            "expert_info":"税务师、会计师、审计师、讲师。细解税法，巧节税负，财税问题解决方案提供者。",
+            "expert_nickName":"财税公益人",
+            "header_img":"/media/uUqFRKQsVGUsFTiTE5E6RR9ni5J9Wmus.jpg",
+            "id":"d9939d216d5e4843bde65c3c94e18246",
+            "last_login_time":1531201362000,
+            "nickName":"疯狂税客（税务师会计师审计师）",
+            "openId":"oT7f_wiVSfaVemw0vMHfwBLH6oMo",
+            "question_fee":888
+          },
+          {
+            "answer_count":592,
+            "expert_info":"高级会计师、注册税务师、经济师，从事财税工作近二十年，愿与您一起探讨财税问题。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/fc4643481b7249ad855fe659a21b531b.png",
+            "id":"d31445cdd0b0478a959d8ac7e36cf90d",
+            "last_login_time":1531132358000,
+            "nickName":"福宝",
+            "openId":"oT7f_wglwlg2_J-1hxthdSQM4QC0",
+            "question_fee":1666
+          },
+          {
+            "answer_count":545,
+            "expert_info":"CPA、CTA，曾任某集团公司CFO，精通企业战略、风控内审、财会税收等综合管控",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/oCY4PEtEDjUWQjsuNZm14EQE53cNTxlE.jpg",
+            "id":"be7d6501359f4cf88d953eb35ce9c881",
+            "last_login_time":1531198284000,
+            "nickName":"杨晓东",
+            "openId":"oT7f_wkpTXBFZdnK3hk7cKZ8tdmI",
+            "question_fee":999
+          },
+          {
+            "answer_count":511,
+            "expert_info":"注册会计师，税务师，从业10年。有上市公司税务经理、房地产公司财务经理等相关经验",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/5a6c690f25c0418b9727057d1dd65ab6.png",
+            "id":"e04e070c8dd0496da2873b2915b8b650",
+            "last_login_time":1531196205000,
+            "nickName":"管管",
+            "openId":"oT7f_wi_hc3pc5VC9mLQTV1ZuSqg",
+            "question_fee":1000
+          },
+          {
+            "answer_count":487,
+            "expert_info":"省局稽查能手，营改增专家组，中国税务报、中国税务杂志、中国财政等发表100余篇。",
+            "expert_nickName":"财税公益人",
+            "header_img":"/media/LajsrhN5cNw8tGJLfZknemjYfCZt2n3y.jpg",
+            "id":"cdcb45289d9d452e9d34e5487d5141c9",
+            "last_login_time":1531191658000,
+            "nickName":"思考财税",
+            "openId":"oT7f_wg83w89GG-tNqs0JlPNvXPg",
+            "question_fee":1000
+          },
+          {
+            "answer_count":458,
+            "expert_info":"注册会计师",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/edd1826c744b4a048993817e55b7f7b2.png",
+            "id":"7b04a92282ac481ebde7b991f67a86a2",
+            "last_login_time":1531121238000,
+            "nickName":"斑",
+            "openId":"oT7f_wr0HS6bpSIagRCNA63adJMU",
+            "question_fee":100
+          },
+          {
+            "answer_count":403,
+            "expert_info":"税务师，会计师，从事财税工作25年。财税实务问题解答、涉税风险防控。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/mxmLHAeMdiYV0XQmxNFsaVsmq9wB3kW3.jpg",
+            "id":"2b6aa368407840b2911311cacb55a234",
+            "last_login_time":1531190772000,
+            "nickName":"秦老师| 和悦咨询",
+            "openId":"oT7f_wkQ3haGbHoX36vc2vvXX-2E",
+            "question_fee":1989
+          },
+          {
+            "answer_count":395,
+            "expert_info":"注册会计师、注册税务师、律师，有20年基层税务工作经验。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/6222b95a72b1480a8bcf1a70007acb19.png",
+            "id":"8339136d7c6a4c41b6d63d1e068c95be",
+            "last_login_time":1531195569000,
+            "nickName":"张亮",
+            "openId":"oT7f_wvT8tgOEDLslf9omLCW_uSc",
+            "question_fee":990
+          }
+        ],
+        "totalCount":0,
+        "totalPages":0
+      },
+      "status_code":0,
+      "status_message":"ok"
+    }
   }
   async search() {
     this.ctx.body = {
@@ -1280,22 +1470,157 @@ class TaxkeController extends Controller {
       totalPages: 591,
     };
   }
+  async searchProfessor(){
+    this.ctx.body={
+      "page":{
+        "autoCount":false,
+        "first":1,
+        "hasNext":false,
+        "hasPre":false,
+        "nextPage":1,
+        "pageNo":1,
+        "pageSize":10,
+        "prePage":1,
+        "qtime":0,
+        "result":[
+          {
+            "answer_count":1256,
+            "expert_info":"从税20年，法律职业资格，实战经验丰富，出版财税书籍3本，发表文章200余篇。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/dKlLhATYnE8n5oGnNn70kv66T6I3cv6X.jpg",
+            "id":"0a34c902fdac4a9992291aab0f89e0ab",
+            "last_login_time":1531204560000,
+            "nickName":"牛戈",
+            "openId":"oT7f_wvRMPIEcp7C3FnXk-QlZCSs",
+            "question_fee":2800
+          },
+          {
+            "answer_count":816,
+            "expert_info":"注册会计师、注册税务师，从业二十年，与您交流财税问题。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/1ZNwArBAFUFX0OsoUpYYbTb0Muimix5k.jpg",
+            "id":"7bd7baabd1d541278ba5986bb3eb3b6b",
+            "last_login_time":1531102870000,
+            "nickName":"小强老师",
+            "openId":"oT7f_wiL0M-031edw-snvh3--2mA",
+            "question_fee":3000
+          },
+          {
+            "answer_count":711,
+            "expert_info":"税务师、会计师、审计师、讲师。细解税法，巧节税负，财税问题解决方案提供者。",
+            "expert_nickName":"财税公益人",
+            "header_img":"/media/uUqFRKQsVGUsFTiTE5E6RR9ni5J9Wmus.jpg",
+            "id":"d9939d216d5e4843bde65c3c94e18246",
+            "last_login_time":1531201362000,
+            "nickName":"疯狂税客（税务师会计师审计师）",
+            "openId":"oT7f_wiVSfaVemw0vMHfwBLH6oMo",
+            "question_fee":888
+          },
+          {
+            "answer_count":592,
+            "expert_info":"高级会计师、注册税务师、经济师，从事财税工作近二十年，愿与您一起探讨财税问题。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/fc4643481b7249ad855fe659a21b531b.png",
+            "id":"d31445cdd0b0478a959d8ac7e36cf90d",
+            "last_login_time":1531132358000,
+            "nickName":"福宝",
+            "openId":"oT7f_wglwlg2_J-1hxthdSQM4QC0",
+            "question_fee":1666
+          },
+          {
+            "answer_count":546,
+            "expert_info":"CPA、CTA，曾任某集团公司CFO，精通企业战略、风控内审、财会税收等综合管控",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/oCY4PEtEDjUWQjsuNZm14EQE53cNTxlE.jpg",
+            "id":"be7d6501359f4cf88d953eb35ce9c881",
+            "last_login_time":1531205608000,
+            "nickName":"杨晓东",
+            "openId":"oT7f_wkpTXBFZdnK3hk7cKZ8tdmI",
+            "question_fee":999
+          },
+          {
+            "answer_count":511,
+            "expert_info":"注册会计师，税务师，从业10年。有上市公司税务经理、房地产公司财务经理等相关经验",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/5a6c690f25c0418b9727057d1dd65ab6.png",
+            "id":"e04e070c8dd0496da2873b2915b8b650",
+            "last_login_time":1531196205000,
+            "nickName":"管管",
+            "openId":"oT7f_wi_hc3pc5VC9mLQTV1ZuSqg",
+            "question_fee":1000
+          },
+          {
+            "answer_count":487,
+            "expert_info":"省局稽查能手，营改增专家组，中国税务报、中国税务杂志、中国财政等发表100余篇。",
+            "expert_nickName":"财税公益人",
+            "header_img":"/media/LajsrhN5cNw8tGJLfZknemjYfCZt2n3y.jpg",
+            "id":"cdcb45289d9d452e9d34e5487d5141c9",
+            "last_login_time":1531191658000,
+            "nickName":"思考财税",
+            "openId":"oT7f_wg83w89GG-tNqs0JlPNvXPg",
+            "question_fee":1000
+          },
+          {
+            "answer_count":458,
+            "expert_info":"注册会计师",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/edd1826c744b4a048993817e55b7f7b2.png",
+            "id":"7b04a92282ac481ebde7b991f67a86a2",
+            "last_login_time":1531121238000,
+            "nickName":"斑",
+            "openId":"oT7f_wr0HS6bpSIagRCNA63adJMU",
+            "question_fee":100
+          },
+          {
+            "answer_count":403,
+            "expert_info":"税务师，会计师，从事财税工作25年。财税实务问题解答、涉税风险防控。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/mxmLHAeMdiYV0XQmxNFsaVsmq9wB3kW3.jpg",
+            "id":"2b6aa368407840b2911311cacb55a234",
+            "last_login_time":1531205992000,
+            "nickName":"秦老师| 和悦咨询",
+            "openId":"oT7f_wkQ3haGbHoX36vc2vvXX-2E",
+            "question_fee":1989
+          },
+          {
+            "answer_count":395,
+            "expert_info":"注册会计师、注册税务师、律师，有20年基层税务工作经验。",
+            "expert_nickName":"财税工作者",
+            "header_img":"/media/6222b95a72b1480a8bcf1a70007acb19.png",
+            "id":"8339136d7c6a4c41b6d63d1e068c95be",
+            "last_login_time":1531206313000,
+            "nickName":"张亮",
+            "openId":"oT7f_wvT8tgOEDLslf9omLCW_uSc",
+            "question_fee":990
+          }
+        ],
+        "totalCount":0,
+        "totalPages":0
+      },
+      "status_code":0,
+      "status_message":"ok"
+    }
+  }
   async questionDetail() {
     this.ctx.body = {
       allow_reask: 1,
       answer_user: {
-        createDate: 1478002082000,
+        createDate: 1479429357000,
         del_flag: 'N',
+        expert_info:
+          '从税20年，法律职业资格，实战经验丰富，出版财税书籍3本，发表文章200余篇。',
         expert_nickName: '财税工作者',
-        header_img: '/media/deef28dc52ee4c9fa3a282389f17077d.png',
-        id: '6b556138c8e24e809655689867ee7fa6',
+        fee_type: 'CNY',
+        header_img: '/media/dKlLhATYnE8n5oGnNn70kv66T6I3cv6X.jpg',
+        id: '0a34c902fdac4a9992291aab0f89e0ab',
         is_expert: 1,
-        last_login_time: 1530241354000,
-        nickName: '武伟悟税',
-        openId: 'oT7f_wtFKmuHLpTjv6RziYR8DQdI',
-        sex: 1,
+        last_login_time: 1531102293000,
+        nickName: '牛戈',
+        openId: 'oT7f_wvRMPIEcp7C3FnXk-QlZCSs',
+        question_fee: 2800,
+        sex: 0,
         source: 'WEIXIN',
-        unionid: 'ojxvh0UXQkoBp1T4O7-ynsqmePGc',
+        unionid: 'ojxvh0RkPmaEpsfdTYnGIxsDt3tU',
       },
       create_user: {
         createDate: 1526255368000,
@@ -1303,7 +1628,7 @@ class TaxkeController extends Controller {
         header_img: '/media/db4cd5974a3f4ff4a07e9ef75e5440cb.png',
         id: '1c2969a9351044b7b2412db82c388550',
         is_expert: 0,
-        last_login_time: 1530242456000,
+        last_login_time: 1531105424000,
         nickName: 'liwanqi',
         openId: 'oT7f_wntunYA_2PSvSavTF_U2w7I',
         sex: 1,
@@ -1313,59 +1638,42 @@ class TaxkeController extends Controller {
       images: [],
       marks: [
         {
-          answerDate: 1530242467000,
-          audio_name: 'r_a86815b579fe4ef58cc0b2665bfe88f9.mp3',
+          answerDate: 1531104960000,
+          audio_name: '',
           complate: 'Y',
-          createDate: 1530237990000,
+          createDate: 1530678109000,
           createUser: '1c2969a9351044b7b2412db82c388550',
           del_flag: 'N',
-          holder_expert: '6b556138c8e24e809655689867ee7fa6',
-          id: '38af3cd5be3643ec8e40d7e8a06ff760',
+          holder_expert: '0a34c902fdac4a9992291aab0f89e0ab',
+          id: 'cefb554752464172aebb105c3fca3acf',
           mark_answer:
-            '\n参照:税率3%（简易计税），一般计税6%\n\n\n其他建筑服务,是指上列工程作业之外的各种工程作业服务,如钻井(打井)、拆除建筑物或者构筑物、平整土地、园林绿化、疏浚(不包括航道疏浚)、建筑物平移、搭脚手架、爆破、矿山穿孔、表面附着物(包括岩层、土层、沙层等)剥离和清理等工程作业。',
+            '属于现代服务业，适用6%税率。<div>建议参考《<b style="font-family: 宋体; font-size: 15pt; letter-spacing: 0.3pt; text-align: center;">营业税改征增值税试点实施办法</b><span style="font-size: 16pt; font-family: 仿宋_GB2312; color: black; letter-spacing: 0.3pt;">》</span>销售服务、无形资产、不动产注释：<p><span style="font-size: 16pt; font-family: 仿宋_GB2312; color: black; letter-spacing: 0.3pt;">现代服务</span>&nbsp;——商务辅助服务——企业管理服务——物业管理</p></div>',
           mark_question:
-            '您好！《水环境保护委托维管协议书》，约定指定区域水面保洁，水华防控，滩地保洁，临时道口看护及巡视工作，请问适用什么税目，什么税率？发票内容开*建筑服务*工程款，是否合规？',
-          question_id: '06f76d93655d441ebf919a5307bb8d50',
-        },
-        {
-          answerDate: 1530242573000,
-          audio_name: 'r_022afa95cd7e4ac8aabbc74f9c0b16e6.mp3',
-          complate: 'Y',
-          createDate: 1530242282000,
-          createUser: '1c2969a9351044b7b2412db82c388550',
-          del_flag: 'N',
-          holder_expert: '6b556138c8e24e809655689867ee7fa6',
-          id: 'ef9c231986ef42e98a70183acfd22bb5',
-          mark_answer:
-            'undefine\n参照:税率3%（简易计税），一般计税10%\n\n\n其他建筑服务,是指上列工程作业之外的各种工程作业服务,如钻井(打井)、拆除建筑物或者构筑物、平整土地、园林绿化、疏浚(不包括航道疏浚)、建筑物平移、搭脚手架、爆破、矿山穿孔、表面附着物(包括岩层、土层、沙层等)剥离和清理等工程作业。\n',
-          mark_question:
-            '请问，开商务辅助服务，增值税适用税率为6%。财税[2016]36号文件中规定，商务辅助服务，包括企业管理服务、经纪代理服务、人力资源服务、安全保护服务。是否合理',
-          question_id: '06f76d93655d441ebf919a5307bb8d50',
+            '牛老师，主要是办公楼的维保，包括玻璃清洁，外墙清洗，请问是适用“其他现代服务”，还是什么税目，谢谢！',
+          question_id: '4cc22f7c84fa4bd398242132297818e1',
         },
       ],
       order: {
         create_user: '1c2969a9351044b7b2412db82c388550',
-        dis_createDate: 1530235260022,
+        dis_createDate: 1530676980020,
         dis_holder_expert:
-          '2d298e2dcc5044cfa8e5a3e5853245a1,fde06c06480e47d9a69189748a24c9d0,6b556138c8e24e809655689867ee7fa6',
+          '1984541cb35c43e5be40d9195ab8aa24,f640651e46f344478ce1189dbfd71db0,0a34c902fdac4a9992291aab0f89e0ab',
         dis_type: 1,
-        h_createDate: 1530235873093,
-        holder_expert: '6b556138c8e24e809655689867ee7fa6',
+        h_createDate: 1530677560930,
+        holder_expert: '0a34c902fdac4a9992291aab0f89e0ab',
         is_assign: 'N',
         is_public: 'Y',
         question_state: 3,
       },
       question: {
-        answer_content:
-          '是否属于老项目需要看施工合同和施工许可证是否在2016年5月1日之前？上述项目如符合上述条件可以认定老项目。\n参照:\n《营业税改征增值税试点有关事项的规定》中规定，建筑工程老项目是指：\n（1）《建筑工程施工许可证》注明的合同开工日期在2016年4月30日前的建筑工程项目；\n（2）未取得《建筑工程施工许可证》的，建筑工程承包合同注明的开工日期在2016年4月30日前的建筑工程项目。 \n对于现实中存在的《建筑工程施工许可证》以及建筑工程承包合同都没有注明开工时间的情况，按照实质重于形式的原则，只要纳税人可以提供2016年4月30日前实际已开工的证明，可以按照建筑工程老项目进行税务处理。',
-        answer_date: 1530236167000,
-        createDate: 1530233552000,
+        answer_content: '是汽车维保吗？\n车辆的话属于修理修配劳务，适用16%税率',
+        answer_date: 1530677663000,
+        createDate: 1530676895000,
         create_user: '1c2969a9351044b7b2412db82c388550',
-        audio_name:'r_a86815b579fe4ef58cc0b2665bfe88f9.mp3',
         del_flag: 'N',
-        id: '06f76d93655d441ebf919a5307bb8d50',
+        id: '4cc22f7c84fa4bd398242132297818e1',
         question_title:
-          '老师您好，向您咨询一下，我公司签订了一份建筑工程服务合同，约定实行年度总包干制。从2009年起，施工单位每年支付固定费用，可以理解为属于建筑工程老项目嘛？',
+          '请问，提供维保服务（日常维护、保养、保洁、紧急救援），适用的税目、税率，谢谢！',
       },
     };
   }

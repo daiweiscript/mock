@@ -180,6 +180,10 @@ const apiTags = {
     url: '/search/question'
   },
 
+  searchProfessor: {
+    url: '/expert/list'
+  },
+
   // 问题详情
   // 获取问题相关信息
   questionDetail: {
